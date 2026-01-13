@@ -21,25 +21,20 @@ const AboutMe = () => {
       <div className="w-full md:w-1/2 p-6">
         <ul className="flex flex-col gap-1">
           <li className="aboutRightLi">
-            <span className="aboutRightLiSpan">Age:</span>
-            24
-          </li>
-          <li className="aboutRightLi">
-            <span className="aboutRightLiSpan">Residence:</span>
-            Indore
+            <span className="aboutRightLiSpan">Email:</span>
+            nittprashant6070@gmail.com
           </li>
           <li className="aboutRightLi">
             <span className="aboutRightLiSpan">Phone:</span>
             +91-9685525430
           </li>
           <li className="aboutRightLi">
-            <span className="aboutRightLiSpan">Email:</span>
-            nittprashant6070@gmail.com
+            <span className="aboutRightLiSpan">Residence:</span>
+            Indore, Madhya Pradesh
           </li>
-          <li className="aboutRightLi">
-            <span className="aboutRightLiSpan">Address:</span>
-            Madhya Pradesh, India
-          </li>
+          
+          
+      
         </ul>
       </div>
     </div>

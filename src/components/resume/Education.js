@@ -12,20 +12,20 @@ const Education = () => {
         <ResumeCard
           badge="2023 - 2025"
           title=" Master Of Computer Application"
-          subTitle="Birla Institute Of Technology Ranchi"
-          des="CGPA: 7.0/10"
+          subTitle="Birla Institute Of Technology, Mesra"
+          des="CGPA: 7.14/10"
         />
         <ResumeCard
           badge="2016 - 2019"
           title=" Batchlor Of Science"
-          subTitle=" KK Science And Commerce College Indore"
-          des="Percentage: 67.75"
+          subTitle=" Devi Ahilya Vishwavidyalaya, Indore"
+          des="Percentage: 67.75%"
         />
         <ResumeCard
-          badge="2014 - 2016"
+          badge="2015 - 2016"
           title="Senior Secondary (Class XII)"
-          subTitle="Government HS School Vijay Nagar Indore"
-          des=" Percentage: 74.2"
+          subTitle="Government HS School, Vijay Nagar, Indore"
+          des=" Percentage: 74.20%"
         />
       </div>
     </div>
